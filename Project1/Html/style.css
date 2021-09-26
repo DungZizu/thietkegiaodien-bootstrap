@@ -1,0 +1,53 @@
+
+
+.icon ul li{
+
+    display: inline-block;
+
+}
+
+.col-6{
+    border-radius: 6px;
+}
+.Search-fluid{
+    background-image: url(./imgs/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+.order-fluid{
+    border: none;
+    background-image: url(./imgs/1.jpg);
+   
+    background-position: center top;
+    width: 100%;
+    margin: 2% ;
+    padding: 1%;
+}
+.SelectFood-box{
+    border: 1px solid white;
+    margin: auto;
+    width: 35%;
+    max-height: 50%;
+    padding: 1% 1% 1% 1%;
+    overflow: auto;
+    border-radius: 7px;
+     
+}
+.DeliveryDetails-box{
+    border-radius: 7px;
+    border: 1px solid white;
+    
+    margin: auto;
+    width: 35%;
+    padding: 3% 3% 3% 3%;
+}
+.de{
+    border-radius: 7px;
+    width: 80%;
+}
+.de-1{
+    width: 68%;
+    border-radius: 7px;
+}
